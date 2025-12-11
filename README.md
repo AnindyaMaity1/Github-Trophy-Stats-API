@@ -618,15 +618,12 @@ MIT License - see LICENSE file for details
 
 - GitHub REST API for user and repository data
 - Express.js community
-- Inspired by [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📞 Support
 
 For issues, questions, or suggestions:
 
-- Open an [Issue](https://github.com/yourusername/github-trophy-api/issues)
-- Start a [Discussion](https://github.com/yourusername/github-trophy-api/discussions)
-- Contact: your-email@example.com
+- Contact: anindyamaity2004@gmail.com
 
 ---
 
