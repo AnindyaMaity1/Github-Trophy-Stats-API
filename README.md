@@ -2,6 +2,12 @@
 
 A high-performance, themeable SVG badge generator that transforms GitHub user statistics into visually stunning "trophy cards" with dynamic scoring, leveling systems, and tier-based achievements. Built with Node.js, Express, and the GitHub REST API.
 
+## 🎯 Live Demo
+
+Experience Github - Trophy API in action: **[Live Demo Link](https://githubtrophyapi.vercel.app/?username=ronald&theme=radical)**
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
